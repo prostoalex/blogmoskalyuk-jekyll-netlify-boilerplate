@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Review
 ---
-[<img style="margin: 0px 5px 5px 0px" src="https://images-na.ssl-images-amazon.com/images/I/510eRk2Fh3L._SL110_.jpg" border="0" alt="" align="left" />](https://www.amazon.com/dp/1416570969?tag=moskalyukcom-20&camp=0&creative=0&linkCode=as4&creativeASIN=1416570969&adid=0YXGNAEK9VNMS4XASG60&)Noah Goldstein's, Steve Martin's (no, not [that Steve Martin](http://www.imdb.com/name/nm0000188/)&#8216;s) and Robert Cialdini's [Yes! 50 Scientifically Proven Ways to Be Persuasive](https://www.amazon.com/dp/1416570969?tag=moskalyukcom-20&camp=0&creative=0&linkCode=as4&creativeASIN=1416570969&adid=0YXGNAEK9VNMS4XASG60&) is a pop psych book, where a bunch of research in psychology is distilled into one readable volume.
+[<img style="margin: 0px 5px 5px 0px" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347451656l/2208661.jpg" border="0" alt="" align="left" />](https://www.amazon.com/dp/1416570969?tag=moskalyukcom-20&camp=0&creative=0&linkCode=as4&creativeASIN=1416570969&adid=0YXGNAEK9VNMS4XASG60&)Noah Goldstein's, Steve Martin's (no, not [that Steve Martin](http://www.imdb.com/name/nm0000188/)'s) and Robert Cialdini's [Yes! 50 Scientifically Proven Ways to Be Persuasive](https://www.amazon.com/dp/1416570969?tag=moskalyukcom-20&camp=0&creative=0&linkCode=as4&creativeASIN=1416570969&adid=0YXGNAEK9VNMS4XASG60&) is a pop psych book, where a bunch of research in psychology is distilled into one readable volume.
 
 50 scientifically proven ways constitute 50 chapters of the book, longest of which take 7 pages. The authors take the position that persuasion is a science, not art, hence with the right approach anybody can become the master in the skill of persuasion. So, what are the 50 ways?
 
