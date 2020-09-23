@@ -1,6 +1,6 @@
 ---
 id: 1570
-title: 'Book review: 13 things that don't make sense by Michael Brooks'
+title: 'Book review: 13 things that do not make sense by Michael Brooks'
 date: 2008-08-27T23:24:05-08:00
 author: moskalyukname
 layout: post
