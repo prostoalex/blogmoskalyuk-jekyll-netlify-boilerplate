@@ -3,13 +3,6 @@ layout: default
 ---
 
 <h2>{{ page.title }}</h2>
-
-  {{ content }}
-
-  <section>
-
-    <h3>Recent</h3>
-
     <ul>
       {% for post in site.posts limit:30 %}
         <li>
@@ -17,5 +10,4 @@ layout: default
         </li>
       {% endfor %}
     </ul>
-
   </section>
