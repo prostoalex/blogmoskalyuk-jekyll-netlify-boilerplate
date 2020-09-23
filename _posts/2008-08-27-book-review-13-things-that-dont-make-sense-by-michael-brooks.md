@@ -4,13 +4,8 @@ title: 'Book review: 13 things that don't make sense by Michael Brooks'
 date: 2008-08-27T23:24:05-08:00
 author: moskalyukname
 layout: post
-guid: http://www.moskalyuk.com/blog/book-review-13-things-that-dont-make-sense-by-michael-brooks/1570
+guid: http://blog.moskalyuk.com/book-review-13-things-that-dont-make-sense-by-michael-brooks/1570
 permalink: /book-review-13-things-that-dont-make-sense-by-michael-brooks/1570
-dsq_thread_id:
-  - "145515892"
-categories:
-  - Review
-  - Science
 ---
 [<img loading="lazy" style="border-top-width: 0px;border-left-width: 0px;border-bottom-width: 0px;margin: 0px 0px 5px 5px;border-right-width: 0px" height="114" alt="13 things that dont make sense" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320401228l/2018682.jpg" width="77" align="right" border="0" />](http://www.amazon.com/dp/0385520689?tag=moskalyukcom-20&camp=0&creative=0&linkCode=as1&creativeASIN=0385520689&adid=1SPQQ2E2JSTEMBC2TN6E&) [13 things that don't make sense](http://www.amazon.com/dp/0385520689?tag=moskalyukcom-20&camp=0&creative=0&linkCode=as1&creativeASIN=0385520689&adid=1SPQQ2E2JSTEMBC2TN6E&) by **Michael Brooks** is a pretty interesting look into the world of scientific discoveries, or lack thereof. Because, you see, there are quite a few commonplace things that we take for granted, but cannot quite explain from the scientific point of view. Sure, you'll say, it must be some extra-hard scientific stuff, a formula understandable only by an army of advanced PhDs who spend their lives figuring out these ultra-complicated tasks.
 
